@@ -24,7 +24,7 @@ TYPES:
 2. SCRPTED
 
 pipeline syntax:
-to write the pipeline we use DSL.
+to write the pipeline we use DSL.( Domain Specific Language written in Groovy.)
 We use Groovy Script for jenkins Pipeline.
 it consists of blocks that include stages.
 it includes () & {} braces.
